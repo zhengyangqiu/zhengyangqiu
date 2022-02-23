@@ -13,9 +13,10 @@ Looking forward to reaching and knowing more people by working together.
 
 🧰 Toolbox
 
-<img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="Css logo" width ="50" height ="50"/><img 
+<img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="Css logo" width ="50" height ="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width ="50" height ="50"/> 
                                                                                                                                                 
-                                                                                                                                         src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width ="50" height ="50"/> 
+                                                                                                                                       
 
 
 
