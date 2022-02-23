@@ -3,6 +3,12 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/zhengyangqiu/)
 
 
+A Junior computing graudate student specializing in JavaScript and Java technologies and AWS. Professional experience with the technologies listed in the toolbox below.
+
+I enjoy coding for fun😋 and making toy projects🎈.
+
+Looking forward to reaching and knowing more people by working together.
+
 
 <!--
 **zhengyangqiu/zhengyangqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
