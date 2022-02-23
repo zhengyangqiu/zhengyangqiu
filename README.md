@@ -13,6 +13,8 @@ Looking forward to reaching and knowing more people by working together.
 
 🧰 Toolbox
 
+<img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width ="50" height ="50"/ 
+
 
 
 
