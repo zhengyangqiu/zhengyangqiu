@@ -5,13 +5,15 @@
 ---
 
 
-A Junior computing graudate student specializing in JavaScript and Java technologies and AWS. Professional experience with the technologies listed in the toolbox below.
+- 🙋‍♂️ A Junior computing graudate student specializing in JavaScript and Java technologies and AWS. Professional experience with the technologies listed in the toolbox below.
 
-I enjoy coding for fun😋 and making toy projects🎈.
+- 👨‍💻 I enjoy coding for fun😋 and making toy projects🎈.
 
-I ❤️ 🐶s and Switch Gaming.
+- 🌱I ❤️ 🐶s and Switch Gaming.
 
-Looking forward to reaching and knowing more people by working together.
+- 👯Looking forward to reaching and knowing more people by working together.
+
+- 📫 How to reach me **Zhengyang7180@gmail.com**
 
 ---
 
