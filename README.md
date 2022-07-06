@@ -1,11 +1,11 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Zhengyang Qiu
+### Hi there , I am Zhengyang Qiu
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/zhengyangqiu/)
 
 ---
 
 
-- 🙋‍♂️ A Junior computing graudate student specializing in JavaScript and Java technologies and AWS. Professional experience with the technologies listed in the toolbox below.
+- 🙋‍♂️ A Junior computing graudate student specializing in JavaScript and Java technologies and AWS. Currenlt working as software engineer assoicate at Atos HMRC. Professional experience with the technologies listed in the toolbox below.
 
 - 👨‍💻 I enjoy coding for fun😋 and making toy projects🎈.
 
