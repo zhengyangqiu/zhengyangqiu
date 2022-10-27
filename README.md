@@ -5,7 +5,7 @@
 ---
 
 
-- 🙋‍♂️ A Junior computing graudate student specializing in JavaScript and Java technologies and AWS. Currenlt working as software engineer assoicate at Atos HMRC. Professional experience with the technologies listed in the toolbox below.
+- 🙋‍♂️ A Junior computing graudate student specializing in JavaScript and Java technologies and AWS. Currenlt working as C# developer graduate at RWE supply & trading. Professional experience with the technologies listed in the toolbox below.
 
 - 👨‍💻 I enjoy coding for fun😋 and making toy projects🎈.
 
